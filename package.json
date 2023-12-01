@@ -1,0 +1,21 @@
+{
+  "name": "adventofcodechallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "day": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihalidis/AdventOfCode-2023.git"
+  },
+  "author": "Pınar Suvacoglu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mihalidis/AdventOfCode-2023/issues"
+  },
+  "homepage": "https://github.com/mihalidis/AdventOfCode-2023#readme",
+  "dependencies": {}
+}
