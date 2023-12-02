@@ -17,9 +17,7 @@ ObjectArray.forEach(input => {
   })
 
   input.split('').forEach((item, index) => {
-    if (!!parseInt(item)) {
-      orderedInput[index] = parseInt(item)
-    }
+        if (!!parseInt(item)) orderedInput[index] = parseInt(item)
   })
 
   const filteredInput = orderedInput.filter(item => item !== undefined && item !== null)
