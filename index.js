@@ -3,4 +3,4 @@ import { promisify } from "util";
 
 const execAsync = promisify(exec);
 
-console.log((await execAsync(`node "./Day3_Gear-Ratios/solution-p2.js"`)).stdout);
+console.log((await execAsync(`node "./Day4_Scratchcards/solution-p1.js"`)).stdout);
